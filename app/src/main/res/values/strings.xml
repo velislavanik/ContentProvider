@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Content Provider</string>
+    <string name="content_provider_example">Content Provider Example</string>
+    <string name="add_item">Add item</string>
+    <string name="delete_item">Delete item</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="name">Name</string>
+    <string name="grade">Grade</string>
+    <string name="show_all">Show all</string>
+</resources>
